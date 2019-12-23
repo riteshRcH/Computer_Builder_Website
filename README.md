@@ -1,6 +1,6 @@
 # Computer Builder Website 2014
 
-A website that provided users a guided tour in selecting their own high end computer keeping in mind compatibility and performance.
+Website providing users guided tours to select their own high-end computer keeping in mind compatibility & performance.
 
 ![HomePage](https://raw.githubusercontent.com/riteshRcH/Computer_Builder_Website/master/screenshots/HomePage.png)
 
